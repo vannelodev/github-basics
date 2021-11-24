@@ -1,1 +1,0 @@
-git remote add origin https://vannelo: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@github.com/vannelo/github-basics.git
